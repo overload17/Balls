@@ -44,6 +44,7 @@
             this.ClientSize = new System.Drawing.Size(778, 454);
             this.Controls.Add(this.panel1);
             this.Name = "Form1";
+            this.Text = "Шарики с отбиванием";
             this.ResumeLayout(false);
 
         }
